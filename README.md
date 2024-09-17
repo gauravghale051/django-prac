@@ -5,7 +5,9 @@ Step 1:
 
 Step 2:
   - clone this repository
-  - run command
+  - run following commands
+
+  - 
         - pip install -r requirements.txt
         - cd newproj
         - python manage.py makemigrations
